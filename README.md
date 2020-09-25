@@ -6,9 +6,9 @@
   </p>
 </div>
 
-# Clock App
+# Clock
 
-Clock App is a basic React Native App made with Expo based on a dribbble design template.
+Clock is a basic React Native app made with Expo based on a dribbble design template.
 
 ![Dribbble Design Template](https://cdn.dribbble.com/users/3411015/screenshots/11164774/media/3dc94c3cae112e343c629a4244150d0c.png)
 
